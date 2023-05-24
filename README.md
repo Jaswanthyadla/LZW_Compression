@@ -1,6 +1,5 @@
-﻿ITCS 6114 : Algorithms and Data Structures
+ITCS 6114 : Algorithms and Data Structures
 
-https://github.com/Jaswanthyadla/LZW_Compression.githttps://github.com/Jaswanthyadla/LZW_Compression.githttps://github.com/Jaswanthyadla/LZW_Compression.githttps://github.com/Jaswanthyadla/LZW_Compression.githttps://github.com/Jaswanthyadla/LZW_Compression.git
 Name : Jaswanth Yadla
 Student ID: 801275432
 Sec : 002
